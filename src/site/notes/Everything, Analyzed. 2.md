@@ -2,19 +2,9 @@
 {"dg-publish":true,"permalink":"/everything-analyzed-2/","tags":["gardenEntry"]}
 ---
 
-H1 {
-color: #20323d /*The Scanner's Library*
-
-}
-
 <h1 style="color: #8095a4; font-size: 26px">The Scanners Library</h1>
 
-- Tear
-- Tester
-	- Tester 
-
-
-### What is a Scanner?
+ <h3 style="color: #8095a4; font-size: 18px">What is a Scanner?</h3
 
 Most people are taught to pick one lane and stay there. A "Scanner" does the opposite. I’m a researcher who prefers to move horizontally—checking under the hood of several different worlds at once.  
 
@@ -36,6 +26,7 @@ I hope you can take a moment away from what you have  to think about and disc
 ## 🌿 Current Deep Dives
 - [[Everything, Analyzed. 2\|Everything, Analyzed. 2]]
 - [[Test\|Test]]
+- [[2026-01-16\|2026-01-16]]
 
 { .block-language-dataview}
 
