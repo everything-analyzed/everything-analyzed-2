@@ -7,7 +7,8 @@ color: #20323d /*The Scanner's Library*
 
 }
 
-<h1 style="color: #20323d;">The Scanners Library</h1>
+<h1 style="color: #8095a4;">The Scanners Library</h1>
+
 
 
 ### What is a Scanner?
