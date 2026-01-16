@@ -45,6 +45,10 @@ I hope you can take a moment away from what you have  to think about and disc
 
   
 ## 🌿 Current Deep Dives
+- [[Everything, Analyzed. 2\|Everything, Analyzed. 2]]
+- [[Test\|Test]]
+
+{ .block-language-dataview}
 
 { .block-language-dataview}
 
