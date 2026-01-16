@@ -7,8 +7,22 @@ color: #20323d /*The Scanner's Library*
 
 }
 
-<h1 style="color: #8095a4;">The Scanners Library</h1>
+<h1 style="color: #8095a4; font-size: 26px">The Scanners Library</h1>
 
+<ul class="card-container">
+  <li class="card">
+    <h3>Card Title 1</h3>
+    <p>This is some sample description text for the first card.</p>
+  </li>
+  <li class="card">
+    <h3>Card Title 2</h3>
+    <p>This is some sample description text for the second card.</p>
+  </li>
+  <li class="card">
+    <h3>Card Title 3</h3>
+    <p>This is some sample description text for the third card.</p>
+  </li>
+</ul>
 
 
 ### What is a Scanner?
