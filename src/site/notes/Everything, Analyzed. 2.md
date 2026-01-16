@@ -4,7 +4,7 @@
 
 <h1 style="color: #8095a4; font-size: 26px">The Scanners Library</h1>
 
- <h3 style="color: #8095a4; font-size: 18px">What is a Scanner?</h3
+ <h3 style="color: #8095a4; font-size: 18px">What is a Scanner?</h3>
 
 Most people are taught to pick one lane and stay there. A "Scanner" does the opposite. I’m a researcher who prefers to move horizontally—checking under the hood of several different worlds at once.  
 
@@ -13,7 +13,7 @@ This is my **Digital Garden**. It’s a place where I indulge in the pleasure o
 I hope you can take a moment away from what you have  to think about and discover something here that you never really thought to question
 
   
-# The Research Pillars
+## The Research Pillars
 
 - [[MoM/The Human Body/The Human Body\|The Human Body]]<br>An exploration of our physical selves.
 - [[MoM/Law & Crime/Law & Crime\|Law & Crime]] <br>A look at the rules we make, how we enforce them, and their impacts.
