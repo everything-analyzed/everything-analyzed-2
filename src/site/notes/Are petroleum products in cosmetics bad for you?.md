@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/are-petroleum-products-in-cosmetics-bad-for-you/","tags":["thematerialworld","deepdive","budding","petroleum"]}
 ---
 
-# Are petroleum products in cosmetics bad for you?
-
+<h1 style=color: #8095a6; font-size: 36px;>Are petroleum products in cosmetics bad for you?</h1 style>
 ## The misconception about petroleum products in cosmetics
-For a long time, I avoided any skincare products that listed **[[Petroleum Products/What are the 5 most common petroleum products found in cosmetics?\|common petroleum-derived ingredients]]** at the top of their labels. I thought things like mineral oil and petrolatum were toxic, at worst, or would clog my pores, at best. I figured that people who used petroleum jelly (like Vaseline), just didn't know any better and were missing out on the "cleaner," natural alternatives.
+For a long time, I avoided any skincare products that listed **[[Petroleum Products/What are the 5 most common petroleum products found in cosmetics?\|common petroleum-derived ingredients]]** at the top of their labels. I thought things like mineral oil and petrolatum were toxic, at worst, or would clog my pores, at best. I figured that people who used petroleum jelly (like Vaseline), just didn't know any better and were missing out on the "cleaner," natural alternatives. 
 
 ## Understanding the petroleum refining process
 
