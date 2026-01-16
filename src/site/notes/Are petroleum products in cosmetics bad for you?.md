@@ -2,14 +2,16 @@
 {"dg-publish":true,"permalink":"/are-petroleum-products-in-cosmetics-bad-for-you/","tags":["thematerialworld","deepdive","budding","petroleum"]}
 ---
 
-<h1 style="color: #8095a4; font-size: 20px">The misconception about petroleum products in cosmetics</h1>
+# Are petroleum products in cosmetics bad for you?
+
+## The misconception about petroleum products in cosmetics
 For a long time, I avoided any skincare products that listed **[[Petroleum Products/What are the 5 most common petroleum products found in cosmetics?\|common petroleum-derived ingredients]]** at the top of their labels. I thought things like mineral oil and petrolatum were toxic, at worst, or would clog my pores, at best. I figured that people who used petroleum jelly (like Vaseline), just didn't know any better and were missing out on the "cleaner," natural alternatives.
 
-## **Understanding the petroleum refining process**
+## Understanding the petroleum refining process
 
 My perspective changed when I looked into the actual processing of **[[Petroleum Products/crude oil\|crude oil]]**. Petroleum products meant for use In the cosmetic and pharmaceutical worlds are produced via a **[[rigorous refining process\|rigorous refining process]]** to remove impurities—specifically **[[polycyclic aromatic hydrocarbons (PAHs)\|polycyclic aromatic hydrocarbons (PAHs)]]**, which are the actual cause for concern in unrefined oil.
 
-## **The laws of petroleum purity**
+## The laws of petroleum purity
 
 The standard of what's "safe" isn't left for the companies refining the oil to decide. it is strictly regulated by legal **[[purity standards\|purity standards]]** (such as the USP grade in the United States). **[[MoM/Law & Crime/Legal issues in the petroleum industry\|Refineries can face severe civil and criminal consequences]]** if they fail to meet these standards for products intended for human use. The law essentially acts as a safety barrier between industrial manufacturing and consumer health.
 
