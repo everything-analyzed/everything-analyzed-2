@@ -13,7 +13,7 @@ This is my **Digital Garden**. It’s a place where I indulge in the pleasure o
 I hope you can take a moment away from what you have  to think about and discover something here that you never really thought to question
 
   
-## The Research Pillars
+# The Research Pillars
 
 - [[The Human Body\|The Human Body]]<br>An exploration of our physical selves.
 - [[Law & Crime\|Law & Crime]] <br>A look at the rules we make, how we enforce them, and their impacts.
