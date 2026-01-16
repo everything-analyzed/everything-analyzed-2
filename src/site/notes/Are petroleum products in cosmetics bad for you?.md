@@ -15,14 +15,14 @@ My perspective changed when I looked into the actual processing of **[[Petroleum
 
 The standard of what's "safe" isn't left for the companies refining the oil to decide. it is strictly regulated by legal **[[purity standards\|purity standards]]** (such as the USP grade in the United States). **[[MoM/Law & Crime/Legal issues in the petroleum industry\|Refineries can face severe civil and criminal consequences]]** if they fail to meet these standards for products intended for human use. The law essentially acts as a safety barrier between industrial manufacturing and consumer health.
 
-## **Petroleum products could be a better choice** (for your skin)
+## Petroleum products could be a better choice (for your skin)
 
 Contrary to what I thought was true for such a long time, **[[petroleum-derived ingredients can be a better choice\|petroleum-derived ingredients can be a better choice]]** under some circumstances. Unlike many plant-based oils, highly refined petroleum is **[[biologically inert\|biologically inert]]**. It doesn't oxidize or react with the skin’s chemistry. Instead, it acts as a highly effective **[[biological barrier\|biological barrier]]**.
 
 For all it good qualities, though, we know there's some exploration to be done into the **[[impact of the petroleum industry on the environment\|impact of the petroleum industry on the environment]]**.
 
 
-### **Research Debt / Next Steps**
+### Research Debt / Next Steps
 
 - **The "[[Clean Beauty\|Clean Beauty]]" Narrative:** 
 	- Why is there such a strong social push against petroleum if the legal and scientific standards are so high? (Link to: [[MoM/Collective Fictions/Collective Fictions\|Collective Fictions]])
