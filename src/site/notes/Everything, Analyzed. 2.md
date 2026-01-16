@@ -2,7 +2,13 @@
 {"dg-publish":true,"permalink":"/everything-analyzed-2/","tags":["gardenEntry"]}
 ---
 
-# The Scanner's Library
+H1 {
+color: #20323d /*The Scanner's Library*
+
+}
+
+<h1 style="color: #20323d;">The Scanners Library</h1>
+
 
 ### What is a Scanner?
 
@@ -24,18 +30,9 @@ I hope you can take a moment away from what you have  to think about and disc
 
   
 ## 🌿 Current Deep Dives
-```dataview
-LIST
-FROM #budding 
- WHERE contains(tags, "deepdive")
-SORT file.ctime DESC
-LIMIT 6
-```
+
+{ .block-language-dataview}
 
 ## 💡 Recent Wonderings
-```dataview
-LIST
-FROM #seedling 
-SORT file.ctime DESC
-LIMIT 6
-```
+
+{ .block-language-dataview}
