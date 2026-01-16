@@ -2043,6 +2043,7 @@ h1,h2,h3,h4 {letter-spacing:-0.02em; color: #8095A6;}
 
 body, input, button  {
 	font-family:var(--font-interface);
+	color: var(--text-normal);
 }
 .cm-s-obsidian span.cm-error {
 	color:var(--color-red);
@@ -2059,12 +2060,14 @@ body,
 .view-content > .cm-s-obsidian {
 	font-size: var(--font-adaptive-normal);
 	font-weight: var(--normal-weight);
+	color: var(--text-normal);
 }
 
 .view-content > .markdown-source-view.mod-cm6 .cm-scroller,
 .view-content > .markdown-source-view,
 .view-content > .cm-s-obsidian {
 	font-family: var(--font-editor);
+	color: var(--text-normal);
 }
 
 .cm-formatting:not(.cm-formatting-code-block):not(.cm-formatting-hashtag) {
