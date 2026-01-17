@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/everything-analyzed-2/","tags":["gardenEntry"]}
 ---
 
-# The Scanners Library
+# The Scanners Library #
 
- ### What is a Scanner?
+ ### What is a Scanner? ###
  
 Most people are taught to pick one lane and stay there. A "Scanner" does the opposite. I’m a researcher who prefers to move horizontally—checking under the hood of several different worlds at once.  
 
