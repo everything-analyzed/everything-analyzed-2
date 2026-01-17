@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/everything-analyzed-2/","tags":["gardenEntry"]}
 ---
 
-# The Scanners Library #
+# The Scanner's Library #
 
  ### What is a Scanner? ###
  
