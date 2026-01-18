@@ -61,7 +61,7 @@ button {
 .theme-light {
     background: white;
     color: var(--text-normal);
-    font-family: var(--font-default);
+    font-family: var(--font-default; --text-normal);
     h1,h2,h3,h4 {letter-spacing:-0.02em; color: #8095A6;} 
 }
 
