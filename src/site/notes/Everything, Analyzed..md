@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/everything-analyzed/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/everything-analyzed/","tags":["gardenEntry"],"dgShowLocalGraph":"true"}
 ---
 
 # The Scanner's Library #
@@ -8,10 +8,9 @@
  
 Most people are taught to pick one lane and stay there. A "Scanner" does the opposite. I’m a researcher who prefers to move horizontally—checking under the hood of several different worlds at once.  
 
-This is my **Digital Garden**. It’s a place where I indulge in the pleasure of "wondering". I don't just want to file information away; I want to understand the mechanics of the world we live in.
+This is my Digital Garden. It’s a place where I indulge in the pleasure of "wondering". I don't just want to file information away; I want to understand the mechanics of the world we live in.
 
-I hope you can take a moment away from what you have  to think about and discover something here that you never really thought to question
-
+**I hope you can take a moment away from what you *have* to think about and make a  discovery fueled by curiosity.**
   
 ## The Research Pillars
 
@@ -24,12 +23,12 @@ I hope you can take a moment away from what you have  to think about and disc
 
   
 ## 🌿 Current Deep Dives
-- [[MoM/The Human Body/Brain Death/What exactly is brain death?\|What exactly is brain death?]]
-- [[MoM/The Human Body/Brain Death/How is the determination of brain death made?\|How is the determination of brain death made?]]
-- [[MoM/The Human Body/Brain Death/How does brain death compare to a coma or a vegetative state?\|How does brain death compare to a coma or a vegetative state?]]
-- [[MoM/The Human Body/Brain Death/How did the concept of "brain death" develop?\|How did the concept of "brain death" develop?]]
-- [[MoM/How Stuff Works/positive-pressure ventilator\|positive-pressure ventilator]]
 - [[Are petroleum products in cosmetics bad for you?\|Are petroleum products in cosmetics bad for you?]]
+- [[MoM/How Stuff Works/positive-pressure ventilator\|positive-pressure ventilator]]
+- [[MoM/The Human Body/Brain Death/How did the concept of "brain death" develop?\|How did the concept of "brain death" develop?]]
+- [[MoM/The Human Body/Brain Death/How does brain death compare to a coma or a vegetative state?\|How does brain death compare to a coma or a vegetative state?]]
+- [[MoM/The Human Body/Brain Death/How is the determination of brain death made?\|How is the determination of brain death made?]]
+- [[MoM/The Human Body/Brain Death/What exactly is brain death?\|What exactly is brain death?]]
 
 { .block-language-dataview}
 
