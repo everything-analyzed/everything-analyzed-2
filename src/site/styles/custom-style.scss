@@ -9,6 +9,7 @@
     --text-normal: #929292;
     --text-accent: rgb(97, 186, 245);
     --file-margins: 32px;
+    --font-default: "inter"
 
     --callout-border-width: 0px;
     --callout-border-opacity: 0.25;
@@ -58,7 +59,7 @@ button {
 }
 
 .theme-light {
-    background: black;
+    background: white;
     color: #929292;
     font-family: var(--font-default);
 }
