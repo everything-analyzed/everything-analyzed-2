@@ -9,7 +9,7 @@
     --text-normal: #929292;
     --text-accent: rgb(97, 186, 245);
     --file-margins: 32px;
-    --font-default: "inter"
+    --font-family: var(--font-interface);
 
     --callout-border-width: 0px;
     --callout-border-opacity: 0.25;
@@ -54,14 +54,14 @@ button {
 .theme-dark {
     background: var(--background-primary);
     color: var(--text-normal);
-    font-family: var(--font-default);
+    font-family: var(--font-interface);
     h1-color: #3d5261
 }
 
 .theme-light {
     background: white;
     color: #929292;
-    font-family: var(--font-default);
+    font-family: var(--font-interface);
 }
 
 
