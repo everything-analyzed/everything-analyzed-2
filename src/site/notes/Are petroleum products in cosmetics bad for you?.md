@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-petroleum-products-in-cosmetics-bad-for-you/","tags":["thematerialworld","deepdive","budding","petroleum"]}
+{"dg-publish":true,"permalink":"/are-petroleum-products-in-cosmetics-bad-for-you/","tags":["thematerialworld","deepdive","budding","petroleum"],"dgShowFileTree":"true","dgEnableSearch":"true"}
 ---
 
 ### The misconception about petroleum products
