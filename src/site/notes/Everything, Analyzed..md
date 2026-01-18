@@ -33,8 +33,6 @@ I hope you can take a moment away from what you have  to think about and disc
 
 { .block-language-dataview}
 
-```
-
 ## 💡 Recent Wonderings
 - [[impact of the petroleum industry on the environment\|impact of the petroleum industry on the environment]]
 - [[Clean Beauty\|Clean Beauty]]
