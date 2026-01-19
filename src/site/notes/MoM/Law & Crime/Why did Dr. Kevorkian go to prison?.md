@@ -4,8 +4,7 @@
 
 
  > [!abstract] Why does it matter?
- >
-I started reading up on Dr. Kevorkian when I saw parts of his 1994 trial on TV. I've watched a lot of trials, but never one where the victim wanted to die and asked for help in doing so. 
+>  I started reading up on Dr. Kevorkian when I saw parts of his 1994 trial on TV. I've watched a lot of trials, but never one where the victim wanted to die and asked for help in doing so. 
  > 
  > I was just a little kid when Dr. Kevorkian was a public sensation, so when I was watching, I was surprised to realize "Dr. Death" wasn't who I thought. I had subconsciously blended Dr. Kevorkian and Dr. Josef Mengle. Such a ominous name must have been given someone doing terrible things, right? As it would turn out, I couldn't understand why Dr. Jack Kevorkian was even on trial. 
  > 
