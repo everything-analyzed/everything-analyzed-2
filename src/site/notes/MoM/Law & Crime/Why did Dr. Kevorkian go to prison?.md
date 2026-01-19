@@ -3,24 +3,24 @@
 ---
 
 ### Background
->[!Who was Dr. Jack Kevorkian?]
+>[!note] Who was Dr. Jack Kevorkian?
 Dr. Jack Kevorkian, aka "Dr. Death", was most well known for his strong advocacy for [[assisted suicide\|assisted suicide]] for the terminally ill and his practice of participating in them.
 
 >[!Criminal trials]
 Dr. Jack Kevorkian faced five criminal trials between 1994 and 1999, with three acquittals, one mistrial and one conviction.<br>
->>[!Trial Details]-
->>- #### People v. Kevorkian, 1994
->>		- Charged in the 1993 death of 30-year-old Thomas Hyde.
->>		- Hyde was expected to die naturally of [[ALS (Lou Gerhig's disease)\|ALS (Lou Gerhig's disease)]] within weeks of his suicide.
->>- #### People v. Kevorkian, March 1996
->>	- Charged in the 1993 deaths of 72-year-old Merian Ruth Frederick and 61-year-old Dr. Ali Khalili. 
->> 		- Frederick was a terminal ALS patient, and Khalili was dying of bone cancer. 
->>- #### People v. Kevorkian, May 1996
->>	- Charged in the deaths of Marjoriee Wantz and Sherri Miller.
->>- #### People v. Kevorkian, 1997
->>	- Charged in the 1993 death of Loretta Peabody.
->> - #### People v. Kevorkian, 1999
->>	 - Charged in the 1998 death of Thomas Youk.
+>>[!note]- Trial Details
+>>#### People v. Kevorkian, 1994
+>>- Charged in the 1993 death of 30-year-old Thomas Hyde.
+>>	- Hyde was expected to die naturally of [[ALS (Lou Gerhig's disease)\|ALS (Lou Gerhig's disease)]] within weeks of his suicide.
+>>#### People v. Kevorkian, March 1996
+>>- Charged in the 1993 deaths of 72-year-old Merian Ruth Frederick and 61-year-old Dr. Ali Khalili. 
+>> 	- Frederick was a terminal ALS patient, and Khalili was dying of bone cancer. 
+>>#### People v. Kevorkian, May 1996
+>>- Charged in the deaths of Marjoriee Wantz and Sherri Miller.
+>>#### People v. Kevorkian, 1997
+>>- Charged in the 1993 death of Loretta Peabody.
+>> #### People v. Kevorkian, 1999	
+>> - Charged in the 1998 death of Thomas Youk.
 
 
 
@@ -43,8 +43,8 @@ This was a man who created the opportunity for suffering people and their famili
 >3. How should the [[Hippocratic Oath\|Hippocratic Oath]] be interpreted?
 
 >[!Discoveries]
->- #### The Hippocratic Oath
->	- The Oath is a symbolic commitment, but not legally required or binding.
+ #### The Hippocratic Oath
+>- The Oath is a symbolic commitment, but not legally required or binding.
 
 
 
