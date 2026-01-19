@@ -2,52 +2,54 @@
 {"dg-publish":true,"permalink":"/mo-m/law-and-crime/why-did-dr-kevorkian-go-to-prison/","tags":["lawandcrime","thehumanbody","society","budding"]}
 ---
 
-
- > [!background]- 
- I started reading up on Dr. Kevorkian when I saw parts of his 1994 trial on TV. I've watched a lot of trials, but never one where the victim wanted to die and asked for help in doing so. 
- > 
-i was just a little kid when Dr. Kevorkian was a public sensation, so when I was watching, I was surprised to realize "Dr. Death" wasn't who I thought. I had subconsciously blended Dr. Kevorkian and Dr. Josef Mengle. Such a ominous name must have been given someone doing terrible things, right? As it would turn out, I couldn't understand why Dr. Jack Kevorkian was even on trial. 
- > 
- This was a man who created the opportunity for suffering people and their families to exit that suffering with peace and dignity.
-
-> [!note] Exploration
-> 
-> I want to examine the laws and around assisted suicide and, by extension, the ways in which society dictates what actions should be ruled by law.
-
-I also want to examine the way that society determines what is good and bad, right and wrong.
-### Who was Jack Kevorkian?
+### Background
+>[!Who was Dr. Jack Kevorkian?]
 Dr. Jack Kevorkian, aka "Dr. Death", was most well known for his strong advocacy for [[assisted suicide\|assisted suicide]] for the terminally ill and his practice of participating in them.
-### The trials of Jack Kevorkian
-Dr. Jack Kevorkian was found guilty of second-degree murder in the 1999 death of Thomas Youk. He had faced four previous criminal trials between 1994 and 1997, with three acquittals and one mistrial.
 
-The key difference between the first four trials and the last was the level of Dr. Kevorkian's involvement in the patient's suicide, and the resulting criminal charge. In Youk's case, Kevorkian was not accused of not only *assisting* in a suicide; he was also accused of first-degree murder and administering a controlled substance.
-
-### Why was Dr. Kevorkian charged with murder?
-In November 1998, Dr. Kevorkian made an extraordinarily bold and public challenge to his opposers when he broadcast the videotaped death of Thomas Youk on *60 Minutes*.  The video shows Kevorkian administering the lethal injection to Youk.
-
-Trials
-- People v. Kevorkian, 1994
-	- Charged in the 1993 death of 30-year-old Thomas Hyde. 
-	- <br>
-	- Hyde was expected to die naturally of [[ALS (Lou Gerhig's disease)\|ALS (Lou Gerhig's disease)]] within weeks of his suicide.
-- People v. Kevorkian, March 1996
-	- Charged in the 1993 deaths of 72-year-old Merian Ruth Frederick and 61-year-old Dr. Ali Khalili. 
-	- <br>
-	- Frederick was a terminal ALS patient, and Khalili was dying of bone cancer. 
-- People v. Kevorkian, May 1996
-	- Charged in the deaths of Marjoriee Wantz and Sherri Miller.
-- People v. Kevorkian, 1997
-	- Charged in the 1993 death of Loretta Peabody.
-- People v. Kevorkian, 1999
-	- Charged in the 1998 death of Thomas Youk.
+>[!Criminal trials]
+Dr. Jack Kevorkian faced five criminal trials between 1994 and 1999, with three acquittals, one mistrial and one conviction.<br>
+>>[!Trial Details]-
+>>- #### People v. Kevorkian, 1994
+>>	- Charged in the 1993 death of 30-year-old Thomas Hyde.
+>>	- Hyde was expected to die naturally of [[ALS (Lou Gerhig's disease)\|ALS (Lou Gerhig's disease)]] within weeks of his suicide.
+>>- #### People v. Kevorkian, March 1996
+>>	- Charged in the 1993 deaths of 72-year-old Merian Ruth Frederick and 61-year-old Dr. Ali Khalili. 
+>> 		- Frederick was a terminal ALS patient, and Khalili was dying of bone cancer. 
+>>- #### People v. Kevorkian, May 1996
+>>	- Charged in the deaths of Marjoriee Wantz and Sherri Miller.
+>>- #### People v. Kevorkian, 1997
+>>	- Charged in the 1993 death of Loretta Peabody.
+>> - #### People v. Kevorkian, 1999
+>>	 - Charged in the 1998 death of Thomas Youk.
 
 
 
-1. Laws and sentiment around assisted suicides in 80s and 90s
-2. Hippocratic oath
-3. Some patients not terminal 
-4. Illegal because on paper 
-5. 
+
+
+>[!conviction]-
+>In November 1998, Dr. Kevorkian made an extraordinarily bold and public challenge to his opposers when he broadcast the videotaped death of Thomas Youk on *60 Minutes*.  The video shows Kevorkian administering the lethal injection to Youk. <br>
+>The key difference between the first four trials and the last was the level of Dr. Kevorkian's involvement in the patient's suicide, and the resulting criminal charge. In Youk's case, Kevorkian was not accused of not only *assisting* in a suicide; he was also accused of first-degree murder and administering a controlled substance.
+
+This was a man who created the opportunity for suffering people and their families to exit that suffering with peace and dignity
+### Exploration
+
+> [!note] The Questions
+>Based on our laws, there's not much question about why Dr. Kevorkian was convicted in 1999. Despite the context, he directly inflicted an action upon another person that caused said person to die. The more interesting question to me is not about his conviction, but about his guilt. From a philosophical or humanistic standpoint-- what was Dr. Kevorkian guilty of? When considering the answer, the fact that he was not found guilty in his first four trials may become more poignant. Did he not do exactly what he was accused of then? What was the difference in his final trial?
+
+
+>[!Research]
+>1. What is the history of laws around assisted suicide?
+>2. What were the flaws in Dr. Kevorkian's process?
+>3. How should the Hippocratic Oath be interpreted?
+
+>[!Discoveries]
+
+
+
+
+## Commentary
+1. Illegal because on paper 
+2. 
 
 ## Sources
 - https://www.pbs.org/wgbh/pages/frontline/kevorkian/chronology.html
