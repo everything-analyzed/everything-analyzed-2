@@ -11,7 +11,7 @@ Dr. Jack Kevorkian faced five criminal trials between 1994 and 1999, with three 
 >>[!Trial Details]-
 >>- #### People v. Kevorkian, 1994
 >>	- Charged in the 1993 death of 30-year-old Thomas Hyde.
->>	- Hyde was expected to die naturally of [[ALS (Lou Gerhig's disease)\|ALS (Lou Gerhig's disease)]] within weeks of his suicide.
+>>		- Hyde was expected to die naturally of [[ALS (Lou Gerhig's disease)\|ALS (Lou Gerhig's disease)]] within weeks of his suicide.
 >>- #### People v. Kevorkian, March 1996
 >>	- Charged in the 1993 deaths of 72-year-old Merian Ruth Frederick and 61-year-old Dr. Ali Khalili. 
 >> 		- Frederick was a terminal ALS patient, and Khalili was dying of bone cancer. 
