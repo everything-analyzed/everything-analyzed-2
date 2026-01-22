@@ -23,12 +23,10 @@ This is my Digital Garden. It’s a place where I indulge in the pleasure of "w
 
   
 ## 🌿 Current Deep Dives
-- [[Are petroleum products in cosmetics bad for you?\|Are petroleum products in cosmetics bad for you?]]
-- [[MoM/How Stuff Works/positive-pressure ventilator\|positive-pressure ventilator]]
-- [[MoM/The Human Body/Brain Death/How did the concept of "brain death" develop?\|How did the concept of "brain death" develop?]]
-- [[MoM/The Human Body/Brain Death/How does brain death compare to a coma or a vegetative state?\|How does brain death compare to a coma or a vegetative state?]]
-- [[MoM/The Human Body/Brain Death/How is the determination of brain death made?\|How is the determination of brain death made?]]
-- [[MoM/The Human Body/Brain Death/What exactly is brain death?\|What exactly is brain death?]]
+- [[MoM/The Human Body/Brain Death/What exactly is brain death?\|What exactly is brain death?]]: \-
+- [[MoM/The Human Body/Brain Death/How did the concept of "brain death" develop?\|How did the concept of "brain death" develop?]]: \-
+- [[MoM/The Human Body/Brain Death/How is the determination of brain death made?\|How is the determination of brain death made?]]: \-
+- [[Are petroleum products in cosmetics bad for you?\|Are petroleum products in cosmetics bad for you?]]: \-
 
 { .block-language-dataview}
 
